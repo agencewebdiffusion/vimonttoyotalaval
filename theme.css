@@ -93,12 +93,12 @@
     position: absolute;
     top: 0;
     left: 0;
-    visibility: hidden;
+    display: none;
     background: black;
   }
   .advanced .playlist-view.out-of-playlist {
     position: static;
-    visibility: visible;
+    display: inline-block;
   }
   .playlist-view.out-of-playlist img {
     opacity: .5;

@@ -220,13 +220,18 @@ var PlaylistView = Backbone.View.extend({
       this.render();
     });
   },
-  loadCapsule : function () {
-    // Send a message to the AppView to play this capsule
-    this.trigger('vimont:play', this);
+  loadCapsule : function (event) {
+    if($(event.target).parents(".advanced").length) {
+      // In advanced mode, clicking the playlist item should toggle it
+      this.toggleInPlaylist(event);
+    } else {
+      // Send a message to the AppView to play this capsule
+      this.trigger('vimont:play', this);
+    }
   },
   // Add or remove the model from the playlist
-  toggleInPlaylist : function (e) {
-    e.stopImmediatePropagation();
+  toggleInPlaylist : function (event) {
+    event.stopImmediatePropagation();
     this.model.toggleInPlaylist();
     this.trigger('vimont:changePlayqueue', this);
   }

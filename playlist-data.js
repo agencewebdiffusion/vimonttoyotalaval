@@ -6,7 +6,7 @@ var playlistData = [
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/1-PEA_platine.jpg",
     "sources" : {
       "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/01-PEA-ProtectionExtraAttentivev07SORTIE.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/01-PEA-ProtectionExtraAttentivev07SORTIE.mp4",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/01-PEA-ProtectionExtraAttentivev07SORTIE.mp4",
       "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/01-PEA-ProtectionExtraAttentivev07SORTIE.ogg"
 	  }
   }
@@ -17,7 +17,7 @@ var playlistData = [
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/2_remplacement.jpg",
     "sources" : {
       "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/02-Assurancederemplacementv-05-1.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/02-Assurancederemplacementv-05-1.mp4",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/02-Assurancederemplacementv-05-1.mp4",
       "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/02-Assurancederemplacementv-05-1.ogg"
     }
   }
@@ -28,7 +28,7 @@ var playlistData = [
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/3_CarteUsure.jpg",
     "sources" : {
       "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/03-CarteUsure-v04-SORTIE.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/03-CarteUsure-v04-SORTIE.mp4",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/03-CarteUsure-v04-SORTIE.mp4",
       "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/03-CarteUsure-v04-SORTIE.ogg"
     }
   }
@@ -39,7 +39,7 @@ var playlistData = [
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/6-antirouille.jpg",
     "sources" : {
       "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/06-Antirouillev-06-SORTIE.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/06-Antirouillev-06-SORTIE.mp4",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/06-Antirouillev-06-SORTIE.mp4",
       "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/06-Antirouillev-06-SORTIE.ogg"
     }
   }
@@ -50,7 +50,7 @@ var playlistData = [
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/7-tissu2.jpg",
     "sources" : {
       "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/07-Protectiondestissusv-02-SORTIE2.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/07-Protectiondestissusv-02-SORTIE2.mp4",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/07-Protectiondestissusv-02-SORTIE2.mp4",
       "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/07-Protectiondestissusv-02-SORTIE2.ogg"
     }
   }
@@ -61,7 +61,7 @@ var playlistData = [
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/8-sherlock.jpg",
     "sources" : {
       "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/08-Sherlockv-03-SORTIE.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/08-Sherlockv-03-SORTIE.mp4",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/08-Sherlockv-03-SORTIE.mp4",
       "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/08-Sherlockv-03-SORTIE.ogg"
     }
   }
@@ -72,7 +72,7 @@ var playlistData = [
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/9-tag.jpg",
     "sources" : {
       "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/09-TAGv-04-SORTIE.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/09-TAGv-04-SORTIE.mp4",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/09-TAGv-04-SORTIE.mp4",
       "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/09-TAGv-04-SORTIE.ogg"
     }
   }
@@ -83,7 +83,7 @@ var playlistData = [
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/4_Ceuillette.jpg",
     "sources" : {
       "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/04-Cueilletteduvehiculev06SORTIE.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/04-Cueilletteduvehiculev06SORTIE.mp4",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/04-Cueilletteduvehiculev06SORTIE.mp4",
       "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/04-Cueilletteduvehiculev06SORTIE.ogg"
     }
   }
@@ -94,7 +94,7 @@ var playlistData = [
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/5-retour.jpg",
     "sources" : {
       "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/05-Retouralamaisonv03-SORTIE.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/05-Retouralamaisonv03-SORTIE.mp4",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/05-Retouralamaisonv03-SORTIE.mp4",
       "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/05-Retouralamaisonv03-SORTIE.ogg"
     }
   }  

@@ -87,15 +87,5 @@ var playlistData = [
       "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/04-Cueilletteduvehiculev06SORTIE.ogg"
     }
   }
-  ,{
-    "path" : "Retour-a-la-maison",
-    "section": "Livraison",
-    "title" : "Retour a la maison",
-    "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/5-retour.jpg",
-    "sources" : {
-      "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/05-Retouralamaisonv03-SORTIE.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/05-Retouralamaisonv03-SORTIE.mp4",
-      "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/05-Retouralamaisonv03-SORTIE.ogg"
-    }
-  }  
+  
 ];

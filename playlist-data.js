@@ -5,9 +5,9 @@ var playlistData = [
     "title" : "PEA - Protection Extra Attentive",
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/1-PEA_platine.jpg",
     "sources" : {
-      "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/01-PEA-ProtectionExtraAttentivev07SORTIE.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/01-PEA-ProtectionExtraAttentivev07SORTIE.mp4",
-      "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/01-PEA-ProtectionExtraAttentivev07SORTIE.ogg"
+      "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/Toyota_VL_PEA2017.webm",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/Toyota_VL_PEA2017.mp4",
+      "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/Toyota_VL_PEA2017.ogg"
 	  }
   }
   ,{
@@ -60,9 +60,9 @@ var playlistData = [
     "title" : "Sherlock",
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/8-sherlock.jpg",
     "sources" : {
-      "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/08-Sherlockv-03-SORTIE.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/08-Sherlockv-03-SORTIE.mp4",
-      "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/08-Sherlockv-03-SORTIE.ogg"
+      "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/Toyota_VL_Sherlock2017.webm",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/Toyota_VL_Sherlock2017.mp4",
+      "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/Toyota_VL_Sherlock2017.ogg"
     }
   }
     ,{
@@ -71,9 +71,9 @@ var playlistData = [
     "title" : "TAG",
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/9-tag.jpg",
     "sources" : {
-      "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/09-TAGv-04-SORTIE.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5MP4AME/09-TAGv-04-SORTIE.mp4",
-      "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/HTML5V3/09-TAGv-04-SORTIE.ogg"
+      "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/ToyotaVL_TAG2017.webm",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/ToyotaVL_TAG2017.mp4",
+      "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/ToyotaVL_TAG2017.ogg"
     }
   }
     ,{

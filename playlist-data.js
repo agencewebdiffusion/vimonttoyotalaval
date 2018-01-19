@@ -5,9 +5,9 @@ var playlistData = [
     "title" : "PEA - Protection Extra Attentive",
     "poster" : "http://vimonttoyota.agencewebdiffusion.com.s3.amazonaws.com/videos/posters/1-PEA_platine.jpg",
     "sources" : {
-      "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/Toyota_VL_PEA2017.webm",
-      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/Toyota_VL_PEA2017.mp4",
-      "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/Toyota_VL_PEA2017.ogg"
+      "video/webm" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/PEA_VL2017/PEA_VL2017.webm",
+      "video/mp4" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/PEA_VL2017/PEA_VL2017.mp4",
+      "video/ogg" : "http://d28a99uh4on6s8.cloudfront.net/videos/toyota-2017-12-html5-960x540/PEA_VL2017/PEA_VL2017.ogg"
 	  }
   }
   ,{
